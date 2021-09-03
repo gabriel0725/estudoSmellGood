@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="facebook" transform="translate(-337 808)">
+    <path id="facebook-2" data-name="facebook" d="M12.276,31.6a.4.4,0,0,0,.4.4h5.745a.4.4,0,0,0,.4-.4V15.874h4.165a.4.4,0,0,0,.4-.37l.4-4.736a.4.4,0,0,0-.4-.437H18.827V6.97a1.426,1.426,0,0,1,1.426-1.427h3.21a.4.4,0,0,0,.4-.4V.4a.4.4,0,0,0-.4-.4H18.04a5.763,5.763,0,0,0-5.763,5.763v4.568H9.4a.4.4,0,0,0-.4.4v4.738a.4.4,0,0,0,.4.4h2.873Z" transform="translate(337 -808)" fill="#00b1b7" fill-rule="evenodd"/>
+    <g id="Retângulo_50" data-name="Retângulo 50" transform="translate(337 -808)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="32" height="32" stroke="none"/>
+      <rect x="0.5" y="0.5" width="31" height="31" fill="none"/>
+    </g>
+  </g>
+</svg>
